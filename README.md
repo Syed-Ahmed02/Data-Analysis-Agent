@@ -44,6 +44,7 @@ The project includes a sample dataset (`data_science_student_marks.csv`) contain
    Create a `.env` file in the backend directory:
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
+   E2B_API_KEY=your_e2b_api_key_here
    ```
 
 4. **Launch Jupyter Notebook**
@@ -151,3 +152,4 @@ For questions or issues:
 - Custom agent configurations
 
 - Batch processing capabilities
+
